@@ -1,0 +1,46 @@
+body {
+    background-color: #171a21;
+}
+
+div {
+    background-color: #c7d5e0;
+    text-align: center;
+    width: 350px;
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 20px;
+    padding:20px;
+}
+
+img {
+    width: 120px;
+    height: 120px;
+}
+
+.container a {
+    background-color: #171a21;
+    width: 60%;
+    color: white;
+    text-decoration: none;
+    border-radius: 8px;
+    padding: 12px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 5px;
+    transition-duration: 600ms;
+}
+
+.container a:hover {
+    background-color: #66c0f4;
+}
+
+h1 {
+    font-size: 22px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    font-size: 16px;
+    margin-top: 0;
+    color: green;
+}
